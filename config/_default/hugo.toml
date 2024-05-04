@@ -6,7 +6,6 @@ summaryLength = 0
 buildDrafts = false
 buildFuture = false
 baseURL = "https://atops93.pages.dev"
-googleAnalytics = ""
 
 [imaging]
 anchor = "Center"
