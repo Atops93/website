@@ -1,1 +1,1 @@
-Massive thanks to [Asterisk] [https://github.com/Ast3risk-ops]
+Massive thanks to [Asterisk](https://github.com/Ast3risk-ops)
