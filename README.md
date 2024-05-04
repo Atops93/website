@@ -1,1 +1,1 @@
-Massive thanks to [Asterisk](https://asterisk.lol). My insperation was his site.+
+Massive thanks to [Asterisk](https://asterisk.lol). My insperation was his site.
