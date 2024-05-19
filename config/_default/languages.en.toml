@@ -8,8 +8,8 @@ displayName = "EN"
 isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
-description = "Hello, What are you looking for?"
-logo = "./assets/Sir-Atops.png"
+# description = "Hello, What are you looking for?"
+logo = "./assets/favicon-32x32.png"
 
 [author]
 name = "Atops"
