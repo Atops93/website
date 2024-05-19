@@ -5,7 +5,7 @@ enableSearch = false
 enableCodeCopy = true
 disableImageOptimization = true
 disableTextInHeader = true
-defaultBackgroundImage = "dvd-5min.gif"
+defaultBackgroundImage = "dvd-1min.gif"
 
 [header]
 layout = "basic"
@@ -26,7 +26,7 @@ showMoreLinkDest = "/blog"
 cardView = true
 cardViewScreenWidth = false
 layoutBackgroundBlur = false
-homepageImage = "dvd-5min.gif"
+homepageImage = "dvd-1min.gif"
 
 [article]
 showDate = false
