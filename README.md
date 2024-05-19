@@ -1,1 +1,1 @@
-Massive thanks to {Asterisks}(https://github.com/)
+Massive thanks to [Asterisks](https://github.com/)
