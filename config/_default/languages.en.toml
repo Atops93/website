@@ -8,6 +8,7 @@ displayName = "EN"
 isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
+description = "Hello, What are you looking for?"
 
 [author]
 name = "Atops"

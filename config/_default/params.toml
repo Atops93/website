@@ -1,14 +1,13 @@
-colorScheme = "background"
+colorScheme = "slate"
 defaultAppearance = "dark"
-autoSwitchAppearance = true
+autoSwitchAppearance = false
 enableSearch = false
-enableCodeCopy = false
-disableImageOptimization = false
+enableCodeCopy = true
+disableImageOptimization = true
 disableTextInHeader = false
-defaultBackgroundImage = "dvd.gif"
 
 [header]
-layout = "basic"
+layout = "fixed"
 
 [footer]
 showMenu = true
@@ -22,23 +21,23 @@ layout = "background"
 showRecent = false
 showRecentItems = 5
 showMoreLink = false
-showMoreLinkDest = "/posts"
-cardView = false
+showMoreLinkDest = "/blog"
+cardView = true
 cardViewScreenWidth = false
 layoutBackgroundBlur = false
 homepageImage = "dvd.gif"
 
 [article]
-showDate = true
+showDate = false
 showViews = false
 showLikes = false
 showDateOnlyInArticle = false
 showDateUpdated = false
-showAuthor = true
+showAuthor = false
 showHero = false
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
-showBreadcrumbs = false
+showBreadcrumbs = true
 showDraftLabel = true
 showEdit = false
 editAppendPath = true
@@ -47,14 +46,14 @@ showHeadingAnchors = true
 showPagination = true
 invertPagination = false
 showReadingTime = true
-showTableOfContents = false
-showTaxonomies = false
+showTableOfContents = true
+showTaxonomies = true
 showAuthorsBadges = false
 showWordCount = true
-showZenMode = ""
+showZenMode = "true"
 
 [list]
-showHero = false
+showHero = true
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
