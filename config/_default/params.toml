@@ -5,6 +5,7 @@ enableSearch = false
 enableCodeCopy = true
 disableImageOptimization = true
 disableTextInHeader = true
+defaultBackgroundImage = "dvd-5min.gif"
 
 [header]
 layout = "basic"
@@ -25,7 +26,7 @@ showMoreLinkDest = "/blog"
 cardView = true
 cardViewScreenWidth = false
 layoutBackgroundBlur = false
-homepageImage = "dvd.gif"
+homepageImage = "dvd-5min.gif"
 
 [article]
 showDate = false
@@ -35,12 +36,12 @@ showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = true
 showHero = true
-layoutBackgroundBlur = true
+layoutBackgroundBlur = false
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = true
 showDraftLabel = false
 showEdit = false
-editAppendPath = true
+editAppendPath = false
 seriesOpened = false
 showHeadingAnchors = true
 showPagination = true
