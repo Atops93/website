@@ -1,4 +1,7 @@
 +++
+title = ''
+date = 2024-05-19T21:29:53+09:30
+draft = false
 +++
 
 {{< typeit
@@ -10,9 +13,3 @@
 Hello, I'm Atops.
 I use Arch Btw.
 {{< /typeit >}}
-
-{{< list title="Blogs" limit=5 where="Type" value="post" >}}
-
-{{< button href="/blogs" target="_self" >}}
-All Posts
-{{< /button >}}
