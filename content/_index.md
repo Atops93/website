@@ -11,5 +11,5 @@ draft = false
   loop=true >}}
 
 Hello, I'm Atops.
-I use Arch Btw.
+What are you doing here?
 {{< /typeit >}}
